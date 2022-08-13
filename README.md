@@ -1,4 +1,4 @@
-# java-functional
+# java-functional-programming
 
 - Imperative
 - Stream
